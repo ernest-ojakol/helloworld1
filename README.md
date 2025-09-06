@@ -4,7 +4,7 @@ This program is a simple Hello World Program.
 
 I did this to verify that the Java installation was running as expected.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=8HgpjQpy60Y)
 
 # Development Environment
 
